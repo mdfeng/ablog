@@ -4,7 +4,7 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   <link href="http://madfeng.github.io/"/>
-  <updated>2015-11-20T08:30:28.329Z</updated>
+  <updated>2015-11-20T09:48:52.829Z</updated>
   <id>http://madfeng.github.io/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://madfeng.github.io/uncategorized/hello-world/"/>
-    <id>http://madfeng.github.io/uncategorized/hello-world/</id>
-    <published>2015-11-20T08:30:28.329Z</published>
-    <updated>2015-11-20T08:30:28.329Z</updated>
+    <link href="http://madfeng.github.io/blog/hello-world/"/>
+    <id>http://madfeng.github.io/blog/hello-world/</id>
+    <published>2015-11-20T09:48:52.829Z</published>
+    <updated>2015-11-20T09:48:52.829Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -33,6 +33,35 @@
     <summary type="html">
     <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
     </summary>
+    
+      <category term="blog" scheme="http://madfeng.github.io/tags/blog/"/>
+    
+      <category term="blog" scheme="http://madfeng.github.io/categories/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hello]]></title>
+    <link href="http://madfeng.github.io/life/hello/"/>
+    <id>http://madfeng.github.io/life/hello/</id>
+    <published>2015-11-20T09:41:35.000Z</published>
+    <updated>2015-11-20T09:59:32.125Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>见证奇迹的时刻</li>
+</ul>
+<h2 id="First">First</h2><h3 id="come">come</h3><p>Ok 就这样把</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>见证奇迹的时刻</li>
+</ul>
+<h2 id="First">First</h2><h3 id="come">come</h3><p>Ok 就这样把</p>
+]]>
+    </summary>
+    
+      <category term="life" scheme="http://madfeng.github.io/tags/life/"/>
+    
+      <category term="life" scheme="http://madfeng.github.io/categories/life/"/>
     
   </entry>
   
