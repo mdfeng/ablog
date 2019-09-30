@@ -1,4 +1,4 @@
 blog
 ====
 
-madfeng blog with jekyll
+mdfeng blog with jekyll
